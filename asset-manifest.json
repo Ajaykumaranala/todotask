@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Ajaykumaranala/todotask.git/static/css/main.372720c7.css",
-    "main.js": "/Ajaykumaranala/todotask.git/static/js/main.3035061b.js",
-    "static/js/787.d4aba7ab.chunk.js": "/Ajaykumaranala/todotask.git/static/js/787.d4aba7ab.chunk.js",
-    "index.html": "/Ajaykumaranala/todotask.git/index.html",
-    "main.372720c7.css.map": "/Ajaykumaranala/todotask.git/static/css/main.372720c7.css.map",
-    "main.3035061b.js.map": "/Ajaykumaranala/todotask.git/static/js/main.3035061b.js.map",
-    "787.d4aba7ab.chunk.js.map": "/Ajaykumaranala/todotask.git/static/js/787.d4aba7ab.chunk.js.map"
+    "main.css": "/todo-app-react/static/css/main.372720c7.css",
+    "main.js": "/todo-app-react/static/js/main.0b8660a9.js",
+    "static/js/787.d4aba7ab.chunk.js": "/todo-app-react/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/todo-app-react/index.html",
+    "main.372720c7.css.map": "/todo-app-react/static/css/main.372720c7.css.map",
+    "main.0b8660a9.js.map": "/todo-app-react/static/js/main.0b8660a9.js.map",
+    "787.d4aba7ab.chunk.js.map": "/todo-app-react/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.372720c7.css",
-    "static/js/main.3035061b.js"
+    "static/js/main.0b8660a9.js"
   ]
 }
